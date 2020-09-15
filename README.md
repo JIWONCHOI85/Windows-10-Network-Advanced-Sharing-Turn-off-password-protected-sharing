@@ -1,6 +1,5 @@
 ; autoit 스크립트 편집기를 사용하십시오.
 
-
 RUN("control /name microsoft.networkandsharingcenter /page advanced")
 
 
